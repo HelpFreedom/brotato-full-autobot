@@ -2,12 +2,17 @@
 
 [Русская версия →](README.ru.md)
 
+[![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-Subscribe-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
+
 ![preview](preview.png)
 
 A Steam Workshop mod that adds a **robot button** on the difficulty-selection
 screen of Brotato. Press it once and the bot plays the entire **Danger 6
 (Nightmare)** run for you — movement, shop, level-ups, crates — from wave 1
 through wave 21 and into Endless.
+
+**→ Subscribe on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)**
 
 Works with all **64 characters** (50 base + 14 from *Abyssal Terrors*).
 
@@ -31,8 +36,9 @@ Works with all **64 characters** (50 base + 14 from *Abyssal Terrors*).
 
 ## How to use
 
-1. Subscribe to the mod in Steam Workshop *(or download the latest release
-   zip from this repo and drop it into your Brotato `mods/` folder).*
+1. **[Subscribe to the mod in Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)**
+   *(or download the latest release zip from this repo and drop it into your
+   Brotato `mods/` folder).*
 2. Make sure **ModLoader** is installed and enabled.
 3. Launch Brotato. From the main menu enable **Full Auto Bot** under
    *Mods*.

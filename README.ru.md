@@ -2,12 +2,17 @@
 
 [English version →](README.md)
 
+[![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-Подписаться-1b2838?logo=steam&logoColor=white)](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)
+[![Лицензия: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](LICENSE)
+
 ![preview](preview.png)
 
 Мод для Steam Workshop, добавляющий **кнопку с роботом** на экран выбора
 сложности Brotato. Нажми один раз — и бот целиком проходит за тебя забег
 на **Danger 6 (Nightmare)**: движение, магазин, прокачка уровней,
 сундуки — с 1-й волны до 21-й и дальше в Endless.
+
+**→ Подписаться в [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)**
 
 Поддерживает все **64 персонажа** (50 базовых + 14 из DLC *Abyssal
 Terrors*).
@@ -34,8 +39,9 @@ Terrors*).
 
 ## Как пользоваться
 
-1. Подпишись на мод в Steam Workshop *(или скачай zip последнего релиза
-   из этого репозитория и положи в папку `mods/` игры).*
+1. **[Подпишись на мод в Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3737864106)**
+   *(или скачай zip последнего релиза из этого репозитория и положи в
+   папку `mods/` игры).*
 2. Убедись, что **ModLoader** установлен и включён.
 3. Запусти Brotato. В главном меню активируй **Full Auto Bot** в разделе
    *Mods*.
