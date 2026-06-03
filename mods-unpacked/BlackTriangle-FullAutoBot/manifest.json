@@ -1,0 +1,18 @@
+{
+    "name": "FullAutoBot",
+    "namespace": "BlackTriangle",
+    "version_number": "0.1.0",
+    "website_url": "",
+    "description": "Adds a robot button on the difficulty screen. Click it and the bot plays the run for you — movement, shop, level-ups — across all 64 base + DLC characters.",
+    "dependencies": [],
+    "extra": {
+        "godot": {
+            "authors": ["Black Triangle"],
+            "compatible_mod_loader_version": ["6.0.0"],
+            "compatible_game_version": ["1.1.15"],
+            "incompatibilities": [],
+            "load_before": [],
+            "tags": ["Utilities", "Quality of Life", "AI"]
+        }
+    }
+}

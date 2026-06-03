@@ -1,0 +1,21 @@
+# Build artifacts
+*.zip
+*.tmp
+.import/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backups / logs (shouldn't be in repo at all, but just in case)
+*.bak
+*.log
+
+# Private notes (the user asked for HOW_IT_WORKS.md to stay personal)
+HOW_IT_WORKS.md
