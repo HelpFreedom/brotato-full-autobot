@@ -51,9 +51,6 @@ examples:
 | | |
 |---|---|
 | ![wounded](screenshots/char_select_wounded.png) | ![demon](screenshots/char_select_demon.png) |
-| **Wounded** — single-shot survivor: extreme dodge caution, no
-ranged-weapon mixing. | **Demon** — converts materials to stats: items get sold
-for max-value at end of wave. |
 
 ## Compatibility
 
