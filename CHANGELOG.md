@@ -5,6 +5,15 @@ All notable changes to **Full Auto Bot** are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.1] — 2026-06-03
+
+### Fixed
+- Declared `compatible_game_version` as `1.1.15.4` (and the rest of the
+  1.1.15.x line) so ModLoader no longer shows the "outdated mod" warning
+  every time the player returns to the main menu.
+- Declared `compatible_mod_loader_version` as `["6.0.0", "6.1.0", "6.3.0"]`
+  to match the ModLoader versions Brotato ships with.
+
 ## [0.1.0] — 2026-06-03
 
 ### Added
@@ -27,3 +36,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Tested with the *Abyssal Terrors* DLC characters.
 
 [0.1.0]: https://github.com/HelpFreedom/brotato-full-autobot/releases/tag/v0.1.0
+[0.1.1]: https://github.com/HelpFreedom/brotato-full-autobot/releases/tag/v0.1.1
