@@ -75,6 +75,7 @@ examples:
   improve as feedback comes in.
 - The bot does not currently chain into Endless mode automatically after
   wave 20 boss; it plays through whichever mode you selected.
+- Linux/Proton users: if late-wave performance is poor, try forcing Proton 9.0 Beta (or vice versa). Proton-Experimental sometimes has worse Wine scheduler stability for Godot games.
 
 ## Issues and feedback
 
