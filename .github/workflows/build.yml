@@ -24,11 +24,12 @@ jobs:
           echo "Mod version: ${VERSION}"
 
       - name: Build BlackTriangle-FullAutoBot.zip
+        # Workshop ModLoader requires the zip top level to be
+        # mods-unpacked/<author>-<modname>/... — do NOT cd into mods-unpacked.
         run: |
-          cd mods-unpacked
-          zip -r ../BlackTriangle-FullAutoBot.zip BlackTriangle-FullAutoBot \
+          zip -r BlackTriangle-FullAutoBot.zip mods-unpacked/BlackTriangle-FullAutoBot \
             -x "*.DS_Store" "*Thumbs.db" "*~" "*.swp"
-          cd ..
+          unzip -l BlackTriangle-FullAutoBot.zip | head -5
           unzip -l BlackTriangle-FullAutoBot.zip | tail -5
 
       - name: Upload artifact

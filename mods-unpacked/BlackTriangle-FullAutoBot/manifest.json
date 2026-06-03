@@ -1,7 +1,7 @@
 {
     "name": "FullAutoBot",
     "namespace": "BlackTriangle",
-    "version_number": "0.1.1",
+    "version_number": "0.1.2",
     "website_url": "https://github.com/HelpFreedom/brotato-full-autobot",
     "description": "Adds a robot button on the difficulty screen. Click it and the bot plays the run for you — movement, shop, level-ups — across all 64 base + DLC characters.",
     "dependencies": [],

@@ -5,6 +5,18 @@ All notable changes to **Full Auto Bot** are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/),
 and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [0.1.2] — 2026-06-03
+
+### Fixed
+- Zip top-level structure: now `mods-unpacked/BlackTriangle-FullAutoBot/...`
+  instead of `BlackTriangle-FullAutoBot/...`. Brotato's ModLoader Workshop
+  loader strictly requires the `mods-unpacked/` prefix and silently rejected
+  the v0.1.0/v0.1.1 packages with `"does not have the correct file structure"`.
+  Local-folder loading was more permissive, which is why the issue went
+  unnoticed during local testing.
+- Updated the GitHub Action accordingly so released artifacts are packaged
+  correctly going forward.
+
 ## [0.1.1] — 2026-06-03
 
 ### Fixed
@@ -37,3 +49,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 [0.1.0]: https://github.com/HelpFreedom/brotato-full-autobot/releases/tag/v0.1.0
 [0.1.1]: https://github.com/HelpFreedom/brotato-full-autobot/releases/tag/v0.1.1
+[0.1.2]: https://github.com/HelpFreedom/brotato-full-autobot/releases/tag/v0.1.2
