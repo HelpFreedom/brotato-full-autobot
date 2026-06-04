@@ -79,6 +79,13 @@ Terrors*).
   играет в том режиме, который ты выбрал на старте.
 - Пользователям Linux/Proton: если производительность поздней версии низкая, попробуйте принудительно запустить Proton 9.0 Beta (или наоборот Proton-Experimental) Proton иногда демонстрирует худшую стабильность планировщика Wine для игр Godot.
 
+## Нужен co-op бот-напарник?
+
+Этот мод — соло-версия. Если хочешь, чтобы бот играл вторым слотом в
+локальном **co-op** рядом с тобой, поставь наш другой мод:
+[Co-op Bot Partner](https://github.com/HelpFreedom/brotato-coop-bot-partner).
+Тот же движок, подсаживает бота в player 2.
+
 ## Баги и обратная связь
 
 - Открой issue на [GitHub](https://github.com/HelpFreedom/brotato-full-autobot/issues).

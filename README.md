@@ -77,6 +77,13 @@ examples:
   wave 20 boss; it plays through whichever mode you selected.
 - Linux/Proton users: if late-wave performance is poor, try forcing Proton 9.0 Beta (or vice versa). Proton-Experimental sometimes has worse Wine scheduler stability for Godot games.
 
+## Looking for a co-op bot partner?
+
+This mod is the solo sibling. If you want a bot that plays the
+second slot in local **co-op** alongside you, install our other mod:
+[Co-op Bot Partner](https://github.com/HelpFreedom/brotato-coop-bot-partner).
+Same engine, drops a bot into player 2.
+
 ## Issues and feedback
 
 - Open an issue on [GitHub](https://github.com/HelpFreedom/brotato-full-autobot/issues).
